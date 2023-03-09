@@ -1,0 +1,1 @@
+[Training task **CV#1. Markdown & Git** (RS School “JavaScript/Front-End Stage 1”)](https://yuriybiakov.github.io/rsschool-cv/cv)
