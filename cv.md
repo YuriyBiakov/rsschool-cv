@@ -1,4 +1,4 @@
-![MyPhoto](./MyPhotoCompressed.jpg)
+![MyPhoto](./assets/img/MyPhotoCompressed.jpg)
 
 # Yuriy Biakov
 
